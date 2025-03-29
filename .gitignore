@@ -1,0 +1,8 @@
+unsloth_compiled_cache/
+__pycache__
+
+memory/
+models/
+RaMem/*RaMem*
+
+.env

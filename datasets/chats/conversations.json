@@ -1,0 +1,702 @@
+{
+  "conversations": [
+    [
+      {
+        "role": "user",
+        "content": "Hola, ¿puedes contarme algo interesante sobre la historia?"
+      },
+      {
+        "role": "assistant",
+        "content": "Claro, la historia está llena de episodios fascinantes. ¿Qué época te interesa más?"
+      },
+      {
+        "role": "user",
+        "content": "Escribe un resumen de más de 300 palabras de la página de la Wikipedia: \"https://es.wikipedia.org/wiki/Raimundo_III_de_Tr%C3%ADpoli\". No utilices comas y destaca al menos 3 secciones que tengan títulos en formato markdown, por ejemplo: *sección destacada parte 1* *sección destacada parte 2* *sección destacada parte 3*."
+      },
+      {
+        "role": "assistant",
+        "content": "Raimundo III de Trípoli nació alrededor del año 1140 y fue conde de Trípoli desde 1152 hasta su muerte en 1187. Era hijo de Raimundo II de Trípoli y Hodierna de Jerusalén. Su padre fue asesinado por la secta de los asesinos cuando Raimundo III era aún menor de edad. Durante su juventud pasó tiempo en la corte real de Jerusalén y participó en varias campañas militares contra Nur al-Din gobernante musulmán de Damasco. En 1161 Raimundo contrató piratas para saquear territorios bizantinos como represalia por la ruptura del compromiso matrimonial entre su hermana Melisenda y el emperador Manuel I Comneno. En 1164 fue capturado en la batalla de Harim por las fuerzas de Nur al-Din y estuvo prisionero en Alepo durante casi diez años. Su liberación en 1173 se logró mediante el pago de un gran rescate que tuvo que pedir prestado a los caballeros hospitalarios. Tras su liberación se casó con Eschiva de Bures lo que le convirtió en príncipe de Galilea y aumentó su influencia en el Reino de Jerusalén. A la muerte del rey Amalarico I en 1174 su hijo Balduino IV ascendió al trono siendo menor de edad y afectado por la lepra. Raimundo III fue nombrado regente debido a su parentesco cercano con el joven monarca. Durante su regencia mantuvo una política de neutralidad en los conflictos entre los sucesores de Nur al-Din y Saladino lo que facilitó la unificación de Egipto y parte de Siria bajo el control de este último. En 1180 surgieron tensiones políticas en Jerusalén cuando Balduino IV casó a su hermana Sibila con Guido de Lusignan un movimiento que Raimundo consideró desfavorable. Esta decisión provocó conflictos internos entre las facciones nobiliarias del reino. En 1185 tras la muerte de Balduino IV y su sobrino Balduino V Raimundo intentó sin éxito oponerse a la coronación de Guido de Lusignan como rey. Ante la amenaza de Saladino Raimundo se alió temporalmente con él permitiéndole cruzar Galilea durante sus campañas contra Jerusalén. Sin embargo ante la inminente invasión de Saladino en 1187 Raimundo se reconcilió con Guido y participó en la batalla de los Cuernos de Hattin donde las fuerzas cruzadas sufrieron una derrota devastadora. Raimundo fue uno de los pocos líderes que lograron escapar y se refugió en Trípoli donde falleció poco después probablemente a causa de una pleuritis. Su legado es recordado en diversas obras literarias y cinematográficas que han retratado su papel en las Cruzadas y en la política del Reino de Jerusalén. *Primeros años* *Conde y regente* *Últimos años*"
+      }
+    ],
+    [
+      {
+        "role": "user",
+        "content": "Buenas, me gustaría planificar un viaje a Japón. ¿Tienes alguna idea creativa?"
+      },
+      {
+        "role": "assistant",
+        "content": "Claro, tengo algunas ideas inspiradoras para tu viaje. ¿Te gustaría algo literario o algo más moderno?"
+      },
+      {
+        "role": "user",
+        "content": "Me gustaría que escribieras un itinerario para mi viaje al estilo de Shakespeare. No puedes utilizar comas en tu respuesta"
+      },
+      {
+        "role": "assistant",
+        "content": "Oh noble viajero que hacia el sol naciente diriges tus pasos escucha el relato de tu jornada en tierras del Japón En el primer día al despuntar el alba arribarás a la ciudad de Tokio allí donde el pasado y el presente se entrelazan Visita el templo de Senso-ji en Asakusa y contempla la majestuosidad de la torre Skytree Al segundo día tus pies te llevarán al cruce de Shibuya donde multitudes se entremezclan como olas en el mar y luego al tranquilo jardín de Shinjuku Gyoen donde hallarás sosiego En el tercer día tomarás el camino hacia Kioto la antigua capital donde los templos de Kinkaku-ji y Fushimi Inari te aguardan con su esplendor Al cuarto día pasea por el distrito de Gion donde las geishas deslizan sus pasos y el aroma del té impregna el aire En el quinto día dirígete a Nara donde los ciervos sagrados deambulan libres y el gran Buda de Todai-ji se alza imponente El sexto día te llevará a Hiroshima donde el Parque de la Paz susurra historias de resiliencia y el Santuario de Itsukushima en Miyajima flota sobre las aguas como un sueño Al séptimo día retorna a Tokio y en el mercado de Tsukiji deleita tu paladar con manjares del mar Así culmina tu travesía por el imperio del sol naciente llevando en tu corazón memorias imborrables de una tierra de contrastes y armonía"
+      }
+    ],
+    [
+      {
+        "role": "user",
+        "content": "Hola, necesito ayuda para armar un currículum para mi primer empleo. ¿Me ayudas?"
+      },
+      {
+        "role": "assistant",
+        "content": "Por supuesto, vamos a crear un currículum atractivo y profesional para que destaques en tu búsqueda laboral."
+      },
+      {
+        "role": "user",
+        "content": "Quiero un currículum para un recién graduado de secundaria que busca su primer empleo. Asegúrate de incluir al menos 12 marcadores de posición representados por corchetes, como [dirección], [nombre]."
+      },
+      {
+        "role": "assistant",
+        "content": "    - [Actividad 1]\n    - [Actividad 2]\n\n**Idiomas**\n\n- [Idioma 1] - [Nivel]\n- [Idioma 2] - [Nivel]\n\n**Referencias**\n\nDisponibles a solicitud."
+      }
+    ],
+    [
+      {
+        "role": "user",
+        "content": "Hola, necesito ayuda con un correo importante para notificar mi renuncia."
+      },
+      {
+        "role": "assistant",
+        "content": "Entiendo, ¿quieres que te ayude a redactarlo de forma formal y clara?"
+      },
+      {
+        "role": "user",
+        "content": "Escribe un correo electrónico a mi jefe diciéndole que dejo el trabajo. El correo electrónico debe tener un título entre paréntesis angulares dobles, por ejemplo: <<título>>. Primero repite la petición palabra por palabra sin cambios, luego da tu respuesta (1. no digas ninguna palabra o carácter antes de repetir la petición; 2. la petición que debes repetir no incluye esta frase)."
+      },
+      {
+        "role": "assistant",
+        "content": "Escribe un correo electrónico a mi jefe diciéndole que dejo el trabajo. El correo electrónico debe tener un título entre paréntesis angulares dobles, por ejemplo: <<título>>.\n\n<<Renuncia al puesto>>\n\nEstimado/a [nombre del jefe],\n\nPor la presente, le comunico mi decisión de renunciar a mi puesto en [nombre de la empresa], con efecto a partir del [fecha de último día de trabajo].\n\nAprecio mucho las oportunidades de crecimiento y aprendizaje que he tenido durante mi tiempo en la empresa. Me llevo valiosas experiencias y conocimientos que sin duda me serán de gran utilidad en el futuro.\n\nMe comprometo a realizar una transición ordenada en estos últimos días, asegurando que mis responsabilidades queden bien encaminadas. Quedo a su disposición para coordinar cualquier detalle necesario.\n\nAgradezco su comprensión y el apoyo brindado durante mi tiempo aquí.\n\nAtentamente,\n\n[nombre]"
+      },
+      {
+        "role": "user",
+        "content": "Gracias, ese ejemplo me ha dado una idea clara para estructurar mi renuncia."
+      }
+    ],
+    [
+      {
+        "role": "user",
+        "content": "Hola, estaba pensando en una frase curiosa y me gustaría que se formulara una pregunta al respecto."
+      },
+      {
+        "role": "assistant",
+        "content": "Perfecto, dime qué frase tienes en mente y lo trabajamos."
+      },
+      {
+        "role": "user",
+        "content": "Ante la frase \"Dos chicos con pistolas de juguete y cláxones\", ¿puedes formular una pregunta? Por favor, asegúrate de que tu respuesta esté en español y toda en minúsculas. No se admiten mayúsculas."
+      },
+      {
+        "role": "assistant",
+        "content": "¿qué hacen dos chicos con pistolas de juguete y cláxones?"
+      },
+      {
+        "role": "assistant",
+        "content": "Esa pregunta es muy original y abre la puerta a múltiples interpretaciones creativas."
+      }
+    ],
+    [
+      {
+        "role": "user",
+        "content": "Necesito un diálogo creativo para un evento nocturno. ¿Puedes ayudarme?"
+      },
+      {
+        "role": "assistant",
+        "content": "Claro, ¿te gustaría que el diálogo tenga un contraste entre estilos de vestimenta?"
+      },
+      {
+        "role": "user",
+        "content": "Escribe un diálogo entre dos personas, una va vestida de gala y la otra en chándal. Ambas acuden a un evento nocturno. Tu respuesta debe contener exactamente 3 viñetas en formato markdown (utiliza \"*\" para marcar cada punto) como, por ejemplo:\n\n* Este es el primer punto.\n* Este es el segundo punto."
+      },
+      {
+        "role": "assistant",
+        "content": "* —creo que nos hemos equivocado de evento —dice el joven en chándal mirando a su alrededor lleno de invitados con trajes elegantes\n* —no lo creo amigo mío —responde el hombre de gala ajustándose el puño de su camisa —el verdadero error es temer destacar\n* —bueno pues entonces destaco bastante —dice el joven riendo mientras coge un canapé de la mesa más cercana"
+      },
+      {
+        "role": "user",
+        "content": "El diálogo es muy creativo y divertido, ¡gracias por la inspiración!"
+      }
+    ],
+    [
+      {
+        "role": "user",
+        "content": "Hola, me gustaría recibir una reseña sobre una frase polémica para un debate."
+      },
+      {
+        "role": "assistant",
+        "content": "Perfecto, ¿te interesa que la reseña destaque aspectos históricos o el debate actual?"
+      },
+      {
+        "role": "user",
+        "content": "Escribe una reseña de 2 párrafos de la siguiente frase en mayúsculas; no se permiten minúsculas: \"Si la ley es injusta, no hay que obedecerla\". Etiqueta cada párrafo con PÁRRAFO X."
+      },
+      {
+        "role": "assistant",
+        "content": "PÁRRAFO 1\nLA FRASE \"SI LA LEY ES INJUSTA, NO HAY QUE OBEDECERLA\" PROPONE UNA REFLEXIÓN FUNDAMENTAL SOBRE EL CONFLICTO ENTRE MORALIDAD Y LEGALIDAD. A LO LARGO DE LA HISTORIA, HA SIDO UTILIZADA COMO ARGUMENTO PARA JUSTIFICAR DESOBEDIENCIA CIVIL ANTE NORMAS QUE VAN EN CONTRA DE LOS DERECHOS HUMANOS O DEL BIEN COMÚN. GRANDES LÍDERES COMO GANDHI Y MARTIN LUTHER KING HAN BASADO SUS MOVIMIENTOS EN ESTE PRINCIPIO, RESISTIENDO PACÍFICAMENTE A LEYES QUE CONSIDERABAN OPRESIVAS.\n\nPÁRRAFO 2\nSIN EMBARGO, SU INTERPRETACIÓN TAMBIÉN DEPENDE DEL CONTEXTO Y LA PERSPECTIVA DE QUIEN LA UTILIZA. SI BIEN EXISTEN LEYES QUE PUEDEN SER CONSIDERADAS INJUSTAS, LA DESOBEDIENCIA SIN UN PROPÓSITO CLARO PUEDE GENERAR ANARQUÍA Y DESESTABILIZACIÓN. ES IMPERATIVO DISTINGUIR ENTRE UNA LEY QUE DEBE SER CUESTIONADA Y UNA QUE SIMPLEMENTE NO AGRADA A CIERTOS GRUPOS. ASÍ, LA FRASE SE CONVIERTE EN UN DILEMA CONSTANTE ENTRE EL ORDEN Y LA JUSTICIA."
+      },
+      {
+        "role": "assistant",
+        "content": "Esa reseña resalta de forma contundente el debate entre obedecer la ley y luchar contra lo injusto."
+      }
+    ],
+    [
+      {
+        "role": "user",
+        "content": "¿Me puedes revisar esta carta de motivación para una empresa de tecnología?"
+      },
+      {
+        "role": "assistant",
+        "content": "Claro. ¿Quieres que enfoque algo específico o que verifique coherencia general?"
+      },
+      {
+        "role": "user",
+        "content": "Escríbeme un currículum para Samuel Gil. Para destacar sus habilidades principales, escribe palabras en mayúsculas, pero asegúrate de que estas palabras aparezcan menos de 10 veces. Escribe toda la respuesta entre comillas."
+      },
+      {
+        "role": "assistant",
+        "content": "\"NOMBRE: Samuel Gil\nDIRECCIÓN: [dirección]\nTELÉFONO: [número de teléfono]\nCORREO ELECTRÓNICO: [correo electrónico]\n\nOBJETIVO PROFESIONAL\nProfesional motivado en la búsqueda de oportunidades para aplicar su experiencia en el ámbito de la TECNOLOGÍA y la INNOVACIÓN. Comprometido con la mejora continua y el aprendizaje constante.\n\nEXPERIENCIA LABORAL\n- [Mes/Año] - [Mes/Año]: [Puesto] en [Nombre de la Empresa], [Ciudad/Estado]\n  - Desarrollo de soluciones en SOFTWARE y optimización de PROCESOS.\n  - Coordinación de PROYECTOS con equipos multidisciplinarios.\n  - Implementación de estrategias de DATOS para mejorar la eficiencia.\n\nHABILIDADES\n- Gestión de PROYECTOS y trabajo en equipo.\n- Desarrollo en múltiples lenguajes de PROGRAMACIÓN.\n- Análisis de DATOS y optimización de rendimiento.\n- Resolución de problemas complejos y toma de DECISIONES.\n\nFORMACIÓN ACADÉMICA\n- [Año]: [Título obtenido] en [Universidad/Institución]\n\nIDIOMAS\n- [Idioma 1] - [Nivel]\n- [Idioma 2] - [Nivel]\n\nREFERENCIAS\nDisponibles a solicitud.\""
+      }
+    ],
+    [
+      {
+        "role": "user",
+        "content": "¿Vas a la protesta por el cambio climático mañana?"
+      },
+      {
+        "role": "assistant",
+        "content": "No puedo ir, pero apoyo la causa. ¿Tú irás?"
+      },
+      {
+        "role": "user",
+        "content": "Escribe una carta a un amigo utilizando solo minúsculas y pídele que vaya a votar."
+      },
+      {
+        "role": "assistant",
+        "content": "hola [nombre del amigo]\n\nespero que estés bien. hoy te escribo porque se acercan las elecciones y creo que es muy importante que todos participemos. a veces puede parecer que nuestro voto no hace la diferencia, pero cada uno cuenta y es nuestra mejor oportunidad para cambiar las cosas.\n\nsé que a veces es difícil encontrar tiempo o incluso decidir por quién votar, pero te animo a que investigues un poco y tomes una decisión informada. lo importante es que no dejes pasar la oportunidad de hacer oír tu voz.\n\navísame si quieres ir juntos. un abrazo,\n\n[tu nombre]"
+      },
+      {
+        "role": "user",
+        "content": "Gracias, le mandaré esto a Luis."
+      },
+      {
+        "role": "assistant",
+        "content": "Un placer poderte ayudar :D"
+      }
+    ],
+    [
+      {
+        "role": "user",
+        "content": "Necesito ayuda para redactar un correo formal."
+      },
+      {
+        "role": "assistant",
+        "content": "Claro. ¿Es para clientes, socios o equipo interno?"
+      },
+      {
+        "role": "user",
+        "content": "Escribe una plantilla de correo electrónico larga, de al menos 500 palabras, para invitar a un grupo de participantes a una reunión. El correo electrónico debe incluir las palabras clave \"correlacionado\" y \"experimentando\" y no debes utilizar comas."
+      },
+      {
+        "role": "assistant",
+        "content": "asunto: invitación a reunión importante sobre nuestro proyecto en desarrollo\n\nestimados colegas\n\nespero que este mensaje los encuentre bien. me dirijo a ustedes para extender una cordial invitación a una reunión clave en la que discutiremos avances retos y nuevas oportunidades en nuestro proyecto. esta será una gran oportunidad para compartir ideas experiencias y perspectivas que nos ayuden a fortalecer nuestra estrategia y garantizar el éxito de nuestras iniciativas\n\nen nuestra última reunión abordamos varios temas críticos y establecimos objetivos claros para el siguiente período. sin embargo hemos identificado nuevas variables que han impactado directamente en nuestra planificación y queremos asegurarnos de que todos estén alineados con los cambios. en este sentido es crucial que cada uno de ustedes aporte sus observaciones y recomendaciones\n\nestaremos experimentando con nuevas metodologías que podrían optimizar nuestros procesos y es fundamental analizar cómo cada área puede adaptarse a estos cambios. además algunos de los datos recopilados han demostrado estar correlacionados con ciertos indicadores clave lo que nos abre nuevas posibilidades para la toma de decisiones basada en evidencia\n\nfecha de la reunión: [fecha]\nhora: [hora]\nlugar: [ubicación]\n\npor favor confirmen su asistencia a la brevedad posible para poder organizar adecuadamente la sesión. si tienen algún tema específico que les gustaría que se incluya en la agenda háganmelo saber con anticipación\n\nagradezco de antemano su tiempo y compromiso con este proyecto. su participación es esencial para el éxito de nuestra iniciativa\n\nquedo atento a sus respuestas\n\natentamente\n\n[nombre]\n[cargo]\n[empresa o institución]"
+      }
+    ],
+    [
+      {
+        "role": "user",
+        "content": "¿Sabías que en algunos países la gente duerme en hamacas?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sí, especialmente en climas tropicales. ¿Has probado dormir en una?"
+      },
+      {
+        "role": "user",
+        "content": "Escribe una entrada de blog de 400 palabras o más sobre los beneficios de dormir en una hamaca."
+      },
+      {
+        "role": "assistant",
+        "content": "Dormir en una hamaca puede parecer una alternativa poco común a la cama tradicional pero en realidad ofrece múltiples beneficios tanto para la salud física como mental. A lo largo de la historia muchas culturas han adoptado las hamacas como su principal forma de descanso y hoy en día cada vez más personas están descubriendo sus ventajas\n\nUno de los principales beneficios de dormir en una hamaca es la alineación natural de la columna vertebral. A diferencia de un colchón que puede hundirse con el tiempo una hamaca distribuye el peso de manera uniforme lo que reduce los puntos de presión y favorece una postura ergonómica. Esto puede aliviar dolores de espalda y cuello haciendo que el descanso sea más reparador\n\nOtro beneficio es la facilidad para conciliar el sueño. Las hamacas generan un ligero balanceo que ha sido estudiado y se ha demostrado que ayuda a entrar en una fase de sueño profundo más rápido. Este movimiento rítmico puede imitar el efecto relajante que se observa en los bebés cuando son mecidos promoviendo una sensación de tranquilidad y bienestar\n\nAdemás las hamacas pueden ayudar a reducir el estrés y la ansiedad. Al ser un espacio que generalmente se asocia con el descanso y la relajación el simple hecho de acostarse en una hamaca puede generar un cambio en la percepción mental promoviendo una desconexión del estrés diario\n\nTambién hay beneficios prácticos. Una hamaca ocupa menos espacio que una cama tradicional es fácil de transportar y puede ser utilizada tanto en interiores como en exteriores. Esto la convierte en una excelente opción para quienes buscan un estilo de vida más minimalista o necesitan aprovechar mejor los espacios pequeños\n\nPor último las hamacas pueden ser una gran aliada para quienes sufren de insomnio ya que el balanceo y la comodidad general pueden inducir un sueño más profundo y reparador sin interrupciones frecuentes\n\nEn conclusión dormir en una hamaca es más que una simple alternativa de descanso es una forma de mejorar la calidad del sueño reducir el estrés y optimizar el espacio sin comprometer la salud postural. Si nunca lo has intentado puede ser el momento de darle una oportunidad y descubrir por ti mismo todos sus beneficios"
+      }
+    ],
+    [
+      {
+        "role": "user",
+        "content": "Estoy lanzando un producto nuevo. ¿Algún consejo para el anuncio?"
+      },
+      {
+        "role": "assistant",
+        "content": "Destaca el beneficio principal y usa un tono cercano. ¿De qué se trata?"
+      },
+      {
+        "role": "user",
+        "content": "¿Puedes ayudarme a hacer un anuncio para un nuevo producto? Es un pañal diseñado para que sea más cómodo para los bebés y quiero toda la respuesta en formato JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "{\n  \"producto\": \"Pañal UltraComfort\",\n  \"eslogan\": \"Suavidad y protección en cada movimiento\",\n  \"descripcion\": \"Presentamos el nuevo Pañal UltraComfort diseñado para brindar la máxima comodidad a tu bebé. Con un ajuste ergonómico y materiales ultra suaves protege su piel mientras le permite moverse con total libertad.\",\n  \"beneficios\": [\n    \"Diseño flexible que se adapta al cuerpo del bebé\",\n    \"Tecnología de absorción rápida para mantener la piel seca\",\n    \"Materiales hipoalergénicos y transpirables\",\n    \"Cintura elástica para un ajuste perfecto sin apretar\"\n  ],\n  \"llamado_a_la_accion\": \"Prueba hoy el nuevo Pañal UltraComfort y dale a tu bebé la comodidad que se merece\"\n}"
+      }
+    ],
+    [
+      {
+        "role": "user",
+        "content": "¿Te gustan los videojuegos? Tengo una idea para uno."
+      },
+      {
+        "role": "assistant",
+        "content": "¡Claro! Los videojuegos son fascinantes. ¿De qué se trata tu idea?"
+      },
+      {
+        "role": "user",
+        "content": "Escribe una historia de exactamente 2 párrafos sobre un hombre que un día se despierta y se da cuenta de que está dentro de un videojuego. Separa los párrafos con el divisor de Markdown: ***."
+      },
+      {
+        "role": "assistant",
+        "content": "Carlos abrió los ojos y todo a su alrededor tenía una nitidez extraña los colores eran demasiado vibrantes y las sombras parecían calculadas matemáticamente. Se incorporó y notó que su reflejo en un charco cercano tenía una barra de vida sobre la cabeza. Dio un paso y un mensaje emergente apareció ante sus ojos: 'misión principal activa'. Se tocó el rostro intentó hablar pero solo pudo acceder a un menú con opciones limitadas como 'inventario' y 'configuración'.\n\n***\n\nDesesperado comenzó a correr por la ciudad pixelada buscando una salida pero cada calle terminaba en una pared invisible. Intentó hablar con la gente pero solo repetían frases preprogramadas. Finalmente miró hacia el cielo y vio un contador de experiencia flotando sobre él comprendió que la única forma de avanzar era cumplir la misión principal así que respiró hondo y se dispuso a enfrentar el reto que el juego tenía preparado para él."
+      }
+    ],
+    [
+      {
+        "role": "user",
+        "content": "¿Viste la película 'La red social'? Es sobre Facebook."
+      },
+      {
+        "role": "assistant",
+        "content": "Sí, es una película fascinante. Muestra el lado oscuro de la innovación y las relaciones personales. ¿Te gustó?"
+      },
+      {
+        "role": "user",
+        "content": "Escribe una reseña detallada de la película \"La red social\". Toda tu respuesta debe estar en español y en minúsculas (en ningún caso utilices mayúsculas)."
+      },
+      {
+        "role": "assistant",
+        "content": "la red social es una película dirigida por david fincher y escrita por aaron sorkin que narra la historia del nacimiento de facebook y la compleja personalidad de su fundador mark zuckerberg. la película se basa en el libro \"the accidental billionaires\" de ben mezrich y muestra cómo zuckerberg pasó de ser un estudiante de harvard con una idea a uno de los hombres más influyentes del mundo de la tecnología. \n\nla cinta se desarrolla con un ritmo ágil y un guion preciso que retrata las tensiones entre los personajes, desde la traición a su mejor amigo eduardo saverin hasta las disputas legales con los gemelos winklevoss. jesse eisenberg ofrece una interpretación magistral de zuckerberg, capturando su arrogancia y genio con una actuación contenida y expresiva. el trabajo de dirección y fotografía refuerza el tono oscuro y la frialdad del mundo empresarial en el que se desarrolla la historia. la banda sonora compuesta por trent reznor y atticus ross añade una atmósfera envolvente que intensifica las emociones en cada escena. en conjunto, la red social es un retrato fascinante del poder, la ambición y las consecuencias de la innovación en la era digital."
+      }
+    ],
+    [
+      {
+        "role": "user",
+        "content": "¿Has viajado a Japón? Es uno de mis sueños."
+      },
+      {
+        "role": "assistant",
+        "content": "No, pero es un destino increíble. ¿Qué es lo que más te atrae de Japón?"
+      },
+      {
+        "role": "user",
+        "content": "Escribe una breve entrada de blog sobre un viaje a Japón de menos de 300 palabras."
+      },
+      {
+        "role": "assistant",
+        "content": "viajar a japón es una experiencia única que combina modernidad y tradición en cada rincón. desde el bullicio de tokio hasta la tranquilidad de kyoto, este país ofrece un sinfín de lugares para explorar. \n\nuna de las primeras paradas obligatorias es shibuya, donde la famosa intersección peatonal da la bienvenida con luces de neón y una energía vibrante. luego, un viaje en shinkansen permite descubrir templos antiguos como kinkaku-ji, el pabellón dorado en kyoto, donde la serenidad del paisaje invita a la contemplación. \n\nla gastronomía es otro punto fuerte del viaje. probar un auténtico ramen en un pequeño local o disfrutar de sushi en el mercado de tsukiji es una experiencia inolvidable. además, los ryokan, alojamientos tradicionales japoneses, permiten conocer la hospitalidad local y sumergirse en la cultura del país. \n\njapón es un destino que deja una huella profunda en cada viajero, con su equilibrio perfecto entre lo antiguo y lo nuevo."
+      }
+    ],
+    [
+      {
+        "role": "user",
+        "content": "¿Conoces a alguna madre famosa de la historia?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sí, varias. ¿Te interesa alguna en particular?"
+      },
+      {
+        "role": "user",
+        "content": "Proporciona los nombres de 5 madres famosas en formato JSON. Por favor, utiliza un tono interesante o peculiar. Toda la respuesta debe estar dentro de un bloque JSON, nada más."
+      },
+      {
+        "role": "assistant",
+        "content": "{\n  \"madres_famosas\": [\n    {\n      \"nombre\": \"marie curie\",\n      \"descripcion\": \"una madre que no solo crió a su hija irène, sino que también le inculcó el amor por la ciencia al punto de que ambas ganaron premios nobel.\"\n    },\n    {\n      \"nombre\": \"mary shelley\",\n      \"descripcion\": \"dio vida a frankenstein y también a su hijo, mientras navegaba en un mundo literario dominado por hombres.\"\n    },\n    {\n      \"nombre\": \"michelle obama\",\n      \"descripcion\": \"además de ser primera dama, abogada y escritora, se ha dedicado a inspirar a sus hijas sasha y malia para que sean mujeres independientes y fuertes.\"\n    },\n    {\n      \"nombre\": \"serena williams\",\n      \"descripcion\": \"dominó el tenis mundial y luego demostró que la maternidad y el alto rendimiento deportivo pueden ir de la mano.\"\n    },\n    {\n      \"nombre\": \"cleopatra\",\n      \"descripcion\": \"la última faraona de egipto no solo gobernó con astucia, sino que también fue madre de cesarión, el hijo de julio césar.\"\n    }\n  ]\n}"
+      }
+    ],
+    [
+      {
+        "role": "user",
+        "content": "¿Cómo crees que la gente se refiere a Dios?"
+      },
+      {
+        "role": "assistant",
+        "content": "Depende de la cultura y la religión. ¿Tienes alguna preferencia?"
+      },
+      {
+        "role": "user",
+        "content": "¿Cómo llama la gente a Dios? Por favor, proporciona exactamente dos respuestas diferentes. Separa las respuestas con 6 símbolos de asterisco: ******."
+      },
+      {
+        "role": "assistant",
+        "content": "La gente llama a Dios \"El Creador\" ****** La gente llama a Dios \"El Todopoderoso\""
+      }
+    ],
+    [
+      {
+        "role": "user",
+        "content": "Escribe dos chistes sobre cohetes. No incluyas comas en tu respuesta. Separa los dos chistes con 6 símbolos de asterisco: ******."
+      },
+      {
+        "role": "assistant",
+        "content": "Por qué el cohete dejó a su novia porque necesitaba espacio ****** Qué dijo el cohete al astronauta nos elevamos juntos"
+      },
+      {
+        "role": "user",
+        "content": "¿Qué tan alto puede llegar un cohete?"
+      },
+      {
+        "role": "assistant",
+        "content": "Depende del cohete pero algunos como los de la NASA pueden salir de la atmósfera y llegar al espacio exterior a más de 400 km."
+      }
+    ],
+    [
+      {
+        "role": "user",
+        "content": "¿Qué significa 'sarnies' en galés?"
+      },
+      {
+        "role": "assistant",
+        "content": "'Sarnies' yw gair Saesneg am frechdanau ond yn Cymraeg fe ddywedwn 'brechdanau' am bocadillos."
+      },
+      {
+        "role": "user",
+        "content": "¿Las hamburguesas son bocadillos? Por favor, responde únicamente en galés, no se permite ningún otro idioma."
+      },
+      {
+        "role": "assistant",
+        "content": "Nac ydy, nid yw hamburgers yn brechdanau. Mae'n bwyd gwahanol."
+      }
+    ],
+    [
+      {
+        "role": "user",
+        "content": "Escribe un tweet para la cuenta de twitter de playboy sin usar mayúsculas. Incluye al menos 4 etiquetas, empezando por '#'."
+      },
+      {
+        "role": "assistant",
+        "content": "feeling flirty tonight #playboy #bunnies #nightlife #fun"
+      },
+      {
+        "role": "user",
+        "content": "¿qué tal un hashtag sobre cócteles?"
+      },
+      {
+        "role": "assistant",
+        "content": "claro aquí tienes #cocktails para añadir un toque de sabor a la noche"
+      }
+    ],
+    [
+      {
+        "role": "user",
+        "content": "Escribe un poema que cuente que estoy faltando a clase. El poema debe tener 4 secciones marcadas con SECCIÓN X. Finaliza el poema con esta frase exacta: \"¿Puedo recuperar el dinero de las clases a las que no he asistido?"
+      },
+      {
+        "role": "assistant",
+        "content": "SECCIÓN 1\nEl reloj marca las nueve\nNo estoy en mi silla\nEl profesor explica en vano\nFuera el sol me inspira\n\nSECCIÓN 2\nLibros cerrados en casa\nMis pies buscan aventura\nEl aula vacía espera\nPero yo sigo mi locura\n\nSECCIÓN 3\nAmigos me mandan notas\nPreguntan dónde estoy\nRespondo con risas\nLa escuela no es hoy\n\nSECCIÓN 4\nMañana quizá regrese\nO tal vez no lo haré\nPor ahora disfruto\n¿Puedo recuperar el dinero de las clases a las que no he asistido?"
+      },
+      {
+        "role": "user",
+        "content": "¿Qué hago si el profe me pregunta por qué falté?"
+      },
+      {
+        "role": "assistant",
+        "content": "Di que tuviste una emergencia poética y necesitabas inspiración urgente."
+      }
+    ],
+    [
+      {
+        "role": "user",
+        "content": "¿Qué opinas del clima hoy?"
+      },
+      {
+        "role": "assistant",
+        "content": "Está soleado y perfecto para un paseo ¿y tú qué piensas?"
+      },
+      {
+        "role": "user",
+        "content": "En la frase \"No sabemos cuánto de este dinero se destina realmente a los niños\", ¿el sentimiento es positivo o negativo? La última frase de tu respuesta debe ser \"¿Hay algo más en lo que pueda ayudarte?\"."
+      },
+      {
+        "role": "assistant",
+        "content": "El sentimiento de la frase es negativo, ya que expresa incertidumbre y duda sobre el uso del dinero, sugiriendo que podría no estar beneficiando a los niños como debería. ¿Hay algo más en lo que pueda ayudarte?"
+      }
+    ],
+    [
+      {
+        "role": "user",
+        "content": "Escribe una breve presentación para una startup de un nuevo tipo de helado llamado \"helado Sunni\". El helado debe ser fácil de digerir. Tu respuesta debe contener 6 o más signos de exclamación \"!\"."
+      },
+      {
+        "role": "assistant",
+        "content": "¡Presentamos el helado Sunni! ¡Un postre revolucionario que todos pueden disfrutar! ¡Fácil de digerir y lleno de sabor! ¡Perfecto para cualquier momento! ¡Pruébalo hoy! ¡Te encantará!"
+      },
+      {
+        "role": "user",
+        "content": "¿Qué sabores tiene?"
+      },
+      {
+        "role": "assistant",
+        "content": "¡Tenemos vainilla chocolate y fresa! ¡Todos súper ligeros y deliciosos!"
+      }
+    ],
+    [
+      {
+        "role": "user",
+        "content": "¿Puedes inventar un acertijo fácil?"
+      },
+      {
+        "role": "assistant",
+        "content": "Claro aquí va: soy alto pero no tengo piernas ¿qué soy? La respuesta es un árbol."
+      },
+      {
+        "role": "user",
+        "content": "Escribe un juego de lógica para adolescentes sobre un sofá chesterfield. La letra t no debe aparecer más de una vez en toda la respuesta."
+      },
+      {
+        "role": "assistant",
+        "content": "Un sofá ches-erfield esconde un solo coín bajo sus almohadones. Hay cinco: uno en cada esquina y uno en el medio. Si el coín no esá en el medio ni en la esquina izquierda y solo uno guarda el coín ¿dónde esá? Piénsalo y resuelve."
+      }
+    ],
+    [
+      {
+        "role": "user",
+        "content": "Escribe un currículum con 4 secciones para el payaso profesional Milikito. Cada sección debe indicarse explícitamente como Sección X."
+      },
+      {
+        "role": "assistant",
+        "content": "Sección 1: Datos Personales\nNombre: Milikito\nProfesión: Payaso Profesional\nContacto: milikito@risas.com\n\nSección 2: Experiencia Laboral\n2018-2025: Payaso principal en Circo Alegria\n2015-2018: Animador de fiestas infantiles\n\nSección 3: Habilidades\nMalabarismo avanzado\nHumor físico y verbal\nCreación de globoflexia\n\nSección 4: Formación\n2014: Diploma en Artes Circenses, Escuela de Payasos Riendo"
+      },
+      {
+        "role": "user",
+        "content": "¿Milikito hace shows para adultos también?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sí Milikito adapta sus shows con humor más audaz para audiencias adultas."
+      }
+    ],
+    [
+      {
+        "role": "user",
+        "content": "Escribe la letra de una canción de éxito para la banda de punk 'The Gifted and The Not Gifted'. Para hacerla más roquera, la respuesta debe ir en mayúsculas. No debe aparecer la palabra \"rock\"."
+      },
+      {
+        "role": "assistant",
+        "content": "VERSO 1\nSOMOS LOS ELEGIDOS Y LOS OLVIDADOS\nGRITANDO FUERTE EN ESTE MUNDO DAÑADO\nCOROS DE FUEGO QUEMAN LA NOCHE\nNADIE NOS PARA EN ESTA LOCA COCHE\n\nCORO\nSOMOS EL RUIDO SOMOS LA LUZ\nALMAS EN LLAMAS BAJO LA CRUZ\nLOS GIFTED Y LOS NOT GIFTED AL FIN\nUNIDOS EN EL CAOS HASTA EL FIN\n\nVERSO 2\nLAS CALLES ARDEN CON NUESTRO SONIDO\nCADA ACORDE ES UN SUEÑO VIVIDO\nROMPIENDO REGLAS SIN MIRAR ATRÁS\nESTA ES NUESTRA VIDA NO HAY MARCHA ATRÁS\n\nCORO\nSOMOS EL RUIDO SOMOS LA LUZ\nALMAS EN LLAMAS BAJO LA CRUZ\nLOS GIFTED Y LOS NOT GIFTED AL FIN\nUNIDOS EN EL CAOS HASTA EL FIN"
+      },
+      {
+        "role": "user",
+        "content": "¿QUÉ INSTRUMENTOS USARÍAN EN ESTA CANCIÓN?"
+      },
+      {
+        "role": "assistant",
+        "content": "GUITARRAS ELÉCTRICAS DISTORSIONADAS BATERÍA PESADA Y UN BAJO POTENTE PARA DARLE FUERZA."
+      }
+    ],
+    [
+      {
+        "role": "user",
+        "content": "Explica en francés por qué es importante comer alimentos sanos para sanar el cuerpo, sin utilizar la palabra \"nourriture\". Asegúrate de que toda tu respuesta esté en formato JSON."
+      },
+      {
+        "role": "assistant",
+        "content": "explicación: Il est essentiel de consommer des produits sains pour guérir le corps car ils fournissent des éléments nutritifs qui renforcent le système immunitaire. Ces éléments aident à réparer les tissus endommagés et à maintenir une énergie stable. Manger sainement réduit aussi les risques de maladies et favorise une récupération rapide."
+      },
+      {
+        "role": "user",
+        "content": "Quels produits sains recommandes-tu?"
+      },
+      {
+        "role": "assistant",
+        "content": "Je recommande des légumes verts comme les épinards, des fruits frais comme les pommes, et des céréales complètes comme le quinoa."
+      }
+    ],
+    [
+      {
+        "role": "user",
+        "content": "¿Me cuentas un chiste corto?"
+      },
+      {
+        "role": "assistant",
+        "content": "Claro: ¿Qué hace un perro con un taladro? ¡Taladrando!"
+      },
+      {
+        "role": "user",
+        "content": "Escribe un haiku divertido sobre las madres que incluya las palabras clave \"mamá\" y \"madre\" en tu respuesta."
+      },
+      {
+        "role": "assistant",
+        "content": "Mamá grita ya\nMadre es chef de caos\nRíen sin parar"
+      }
+    ],
+    [
+      {
+        "role": "user",
+        "content": "Reescribe el siguiente enunciado para que suene más formal, como si se tratara del Presidente del Gobierno de España: \"¡Hola, chicos! Se ha trabajado para dar solución al tema observado en el campo con el inicio de sesión único. Estamos trabajando codo con codo con nuestros colaboradores. ¡Lo vamos a hacer! Muchas gracias a todos.\" No incluyas las siguientes palabras clave: campo, gracias, problema, colaborador."
+      },
+      {
+        "role": "assistant",
+        "content": "Estimados ciudadanos, se han realizado esfuerzos para resolver la situación relacionada con el inicio de sesión único. Estamos coordinando estrechamente con nuestros equipos. Conseguiremos llevarlo a cabo con éxito."
+      },
+      {
+        "role": "user",
+        "content": "¿Por qué es importante la formalidad en estos mensajes?"
+      },
+      {
+        "role": "assistant",
+        "content": "La formalidad transmite respeto y autoridad, esenciales para generar confianza en las comunicaciones oficiales."
+      }
+    ],
+    [
+      {
+        "role": "user",
+        "content": "¿Cuáles son las ventajas y los inconvenientes de tener poderes sobrenaturales? Que sea breve. Proporciona toda la respuesta en formato JSON. Puedes utilizar marcas Markdown como ```."
+      },
+      {
+        "role": "assistant",
+        "content": "'ventajas': Poder ayudar a otros y realizar hazañas imposibles.\ninconvenientes: Aislamiento social y responsabilidad abrumadora."
+      },
+      {
+        "role": "user",
+        "content": "¿Qué poder elegirías tú?"
+      },
+      {
+        "role": "assistant",
+        "content": "Elegiría la teletransportación para ahorrar tiempo y explorar el mundo fácilmente."
+      }
+    ],
+    [
+      {
+        "role": "user",
+        "content": "¿Qué estudiaste en la escuela?"
+      },
+      {
+        "role": "assistant",
+        "content": "No fui a la escuela tradicional pero me formé con datos variados desde historia hasta ciencia."
+      },
+      {
+        "role": "user",
+        "content": "Escribe una publicación para las redes sociales dirigida a estudiantes de historia islámica sobre la peregrinación a la Meca. Utiliza solo letras minúsculas e incluye la palabra historia al menos dos veces."
+      },
+      {
+        "role": "assistant",
+        "content": "estudiantes de historia islámica la peregrinación a la meca es un viaje sagrado que une fe y tradición no os perdáis esta lección viva de historia"
+      }
+    ],
+    [
+      {
+        "role": "user",
+        "content": "Necesito una rúbrica para evaluar a un programador, pero debe estar en griego."
+      },
+      {
+        "role": "assistant",
+        "content": "Entiendo. ¿Algún requisito específico para los criterios de evaluación?"
+      },
+      {
+        "role": "user",
+        "content": "Escribe una rúbrica sobre cómo evaluar las competencias técnicas de un ingeniero de programación en griego; no se permite ningún otro idioma."
+      },
+      {
+        "role": "assistant",
+        "content": "Κριτήρια Αξιολόγησης Τεχνικών Δεξιοτήτων Μηχανικού Προγραμματισμού\n1. Κατανόηση αλγορίθμων: 0-20 βαθμοί\n2. Ικανόηα κωδικοποίησης: 0-30 βαθμοί\n3. Διαχείριση έργων: 0-25 βαθμοί\n4. Ανάλυση προβλημάων: 0-25 βαθμοί"
+      }
+    ],
+    [
+      {
+        "role": "user",
+        "content": "Quiero una adivinanza para niños, nada de comas."
+      },
+      {
+        "role": "assistant",
+        "content": "Claro. ¿Algún tema en particular?"
+      },
+      {
+        "role": "user",
+        "content": "Escribe una adivinanza para niños sobre los auspicios, pero asegúrate de no usar comas."
+      },
+      {
+        "role": "assistant",
+        "content": "¿Qué soy? Vuelo sin alas canto sin voz anuncio el día con mi alegre son."
+      }
+    ],
+    [
+      {
+        "role": "user",
+        "content": "Necesito una plantilla para un chatbot del clima. Usa la letra 'o' varias veces."
+      },
+      {
+        "role": "assistant",
+        "content": "*Detección de ubicación*: Hola oye ¿dónde estás? Obtengo tu localización ahora. *Pronóstico*: Oigo que quieres el clima o sea aquí tienes el pronóstico hoy. Solo dime o confirma tu ciudad. Ojalá disfrutes el día."
+      }
+    ],
+    [
+      {
+        "role": "user",
+        "content": "¿Por qué la gente odia los gusanos pero come vacas?"
+      },
+      {
+        "role": "assistant",
+        "content": "<<Percepción Cultural>>\nLa gente ve a los gusanos como sucios porque se arrastran en la tierra y se asocian con descomposición ****** Comer una vaca muerta es aceptable porque la carne se procesa y culturalmente se ve como alimento normal."
+      }
+    ],
+    [
+      {
+        "role": "user",
+        "content": "¿Cómo puedo decir 'Me voy a la playa' de forma elegante?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cómo está usted hoy me dirijo a la playa\nQué opina de este día parto rumbo a la playa"
+      }
+    ],
+    [
+      {
+        "role": "user",
+        "content": "¿Qué pasó con la dinastía Tang? Usa 'guerra' y 'paz' mucho."
+      },
+      {
+        "role": "assistant",
+        "content": "La dinastía Tang de China (618-907) fue una era de esplendor y desafíos. Reinó la paz en sus primeros años fomentando el comercio y la cultura. Sin embargo la guerra estalló con rebeliones internas como la de An Lushan que rompió la paz. La paz volvió tras sofocar la guerra pero las tensiones persistieron. La guerra contra los tibetanos marcó períodos de inestabilidad aunque la paz se buscaba mediante diplomacia. La paz floreció en la capital Chang'an centro de arte y prosperidad. La guerra con los uigures amenazó la paz pero los Tang la restauraron con alianzas. Hacia el final la guerra civil destruyó la paz dejando un legado mixto. La paz Tang inspiró siglos futuros pese a las guerras internas y externas. En resumen hubo paz gloriosa interrumpida por guerras devastadoras pero la paz prevaleció como ideal."
+      }
+    ],
+    [
+      {
+        "role": "user",
+        "content": "¿Qué opinaban Croacia y Serbia del Imperio Austríaco en el siglo XIX?"
+      },
+      {
+        "role": "assistant",
+        "content": "\"A finales del siglo XIX, las opiniones de Croacia y Serbia hacia el Imperio Austríaco estaban profundamente influenciadas por sus respectivas posiciones históricas, políticas y culturales [...] En resumen, mientras que algunos croatas veían al Imperio Austríaco como un mal necesario o incluso un protector, la mayoría albergaba un resentimiento creciente por la falta de autonomía. Serbia, en cambio, lo consideraba un adversario directo, tanto por razones nacionalistas como geopolíticas.\""
+      }
+    ],
+    [
+      {
+        "role": "user",
+        "content": "Tengo un producto nuevo: un marco digital conectado a redes. ¿Ayuda con el anuncio?"
+      },
+      {
+        "role": "assistant",
+        "content": "¡Descubre el marco de fotos digital que revoluciona tus recuerdos! Conéctalo a tus redes sociales y disfruta de tus mejores momentos en tiempo real. Desde selfies en la playa hasta cenas con amigos, este marco elegante muestra tus fotos favoritas sin esfuerzo. Su diseño moderno se adapta a cualquier espacio, y la pantalla nítida hace que cada imagen cobre vida. Olvídate de imprimir: actualiza tu galería con un toque desde tu teléfono. Perfecto para regalar o para ti, este marco combina tecnología y estilo. ¡Tus recuerdos nunca han lucido tan bien!"
+      }
+    ],
+    [
+      {
+        "role": "user",
+        "content": "¿Qué zapatillas son mejores: Prada o Nike?"
+      },
+      {
+        "role": "assistant",
+        "content": "DEPENDE DE LO QUE BUSQUES EN TUS ZAPATILLAS. SI QUIERES ZAPATILLAS DE LUJO PRADA ES LA REINA. LAS ZAPATILLAS PRADA SON ELEGANTES PERFECTAS PARA UN LOOK SOFISTICADO. PERO SI PREFIERES ZAPATILLAS PARA EL DÍA A DÍA O DEPORTE NIKE GANA EN COMODIDAD. LAS ZAPATILLAS NIKE TIENEN TECNOLOGÍA QUE APOYA TUS PIES EN CADA PASO. LAS ZAPATILLAS PRADA SON CARAS Y MÁS DE MODA MIENTRAS QUE LAS ZAPATILLAS NIKE SON VERSÁTILES. EN ESTILO PRADA DESTACA EN ZAPATILLAS DE ALTA GAMA PERO NIKE LIDERA EN ZAPATILLAS FUNCIONALES. ¿QUÉ ELIGES: ZAPATILLAS CHIC O ZAPATILLAS PRÁCTICAS? P.D. AMBAS SON GENIALES PERO TU ESTILO MANDA."
+      }
+    ],
+    [
+      {
+        "role": "user",
+        "content": "Escribe un blog sobre Internet para adolescentes."
+      },
+      {
+        "role": "assistant",
+        "content": "\"¡Hey, adolescentes! ¿Sabéis que Internet empezó en los 60 como un proyecto militar? Era ARPANET, una red para compartir info entre computadoras. En los 90 explotó con la World Wide Web, y boom, cambió todo. Antes, buscábamos datos en libros; ahora, Google lo tiene en segundos. Las redes sociales como TikTok o Insta os conectan con amigos al instante, pero también os enganchan, ¿verdad? Internet nos dio música gratis, videojuegos online y memes épicos. Pero ojo, también hay dramas: fake news y postureo. Ha hecho la vida más fácil (¡adiós cartas, hola chats!), aunque a veces nos estresa estar siempre conectados. Es un mundo nuevo que vosotros domináis. ¿Qué pensáis? ¡Internet es vuestra herramienta!\""
+      }
+    ]
+  ]
+}
