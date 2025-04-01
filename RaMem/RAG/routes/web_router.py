@@ -1,12 +1,29 @@
 from semantic_router import Route
+from googlesearch import search
+from llama_index.readers.web import SimpleWebPageReader
+from llama_index.core import VectorStoreIndex
+from llama_index.core.settings import _Settings
+from llama_index.core import Settings
 
-def web_search_handler(query: str):
+Settings.chunk_size = 256
+
+def web_search_handler(query: str, settings:_Settings) -> str:
     """Web search for find information about the query
 
     :param query: The query to search for web
     :type query: str
     :return: A string with the result of the search."""
-    return f"Buscando información sobre: {query}"
+    results = list(search(query, num_results=3))
+    
+    if not results:
+        return ""
+    
+    documents = SimpleWebPageReader(html_to_text=True).load_data(urls=results)
+    index = VectorStoreIndex.from_documents(documents=documents)
+    retriever = index.as_retriever(similarity_top_k=1)
+    retrieved_nodes = retriever.retrieve(query)
+    context = "\n".join(node.text for node in retrieved_nodes if node.score > 0.5)
+    return context
 
 web_search = Route(
     name="web_search",

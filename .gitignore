@@ -3,6 +3,6 @@ __pycache__
 
 memory/
 models/
-RaMem/*RaMem*
+RaMem/*RaMem*/
 
 .env

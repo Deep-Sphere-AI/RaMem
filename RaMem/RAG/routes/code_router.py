@@ -1,6 +1,6 @@
 from semantic_router import Route
 
-def code_search_handler(query: str):
+def code_search_handler(query: str, settings):
     return f"Buscando código sobre: {query}"
 
 code_search = Route(
